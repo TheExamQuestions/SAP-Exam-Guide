@@ -62,13 +62,17 @@ A good plan follows accurate facts and steady habits. Read the official page, me
 ## **FAQs**
 
 **1. What does the Enterprise Architecture Consultant - SAP LeanIX exam cover?**
+
 It covers enterprise architecture practices in SAP LeanIX, applied to business scenarios; the official SAP certification page lists the exact topics.
 
 **2. How long does preparation usually take?**
+
 Most candidates need six to ten weeks of steady study, depending on how much architecture work they already do each week.
 
 **3. Where can I find the official exam details?**
+
 The SAP Training certification page lists current topics, question count, duration, passing score, and booking options for this exam right now.
 
 **4. Are practice questions enough to pass?**
+
 No. Practice questions reveal gaps, but passing requires understanding the processes and some hands-on time in the tool before exam day.
