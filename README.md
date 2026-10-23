@@ -81,13 +81,17 @@ Free Solution Architect SAP Business AI Platform Questions work best as a diagno
 ## FAQs
 
 **1. What are free Solution Architect SAP Business AI Platform questions?**
+
 They are practice items that let you test your knowledge, find weak topics, and learn the exam style before booking.
 
 **2. Are free practice questions enough to pass?**
+
 No. They reveal gaps, but passing also requires solid understanding of the platform and some hands-on experience with real designs.
 
 **3. How often should I take a practice set?**
+
 Take one early, then one each week, and finish with a timed set a few days before the real exam.
 
 **4. Where can I find official exam details?**
+
 The official SAP Training certification page lists current topics, question count, passing score, and booking options for each certification.
